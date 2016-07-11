@@ -1,0 +1,15 @@
+{
+    "name": "formatcc/laravel-module",
+    "authors": [
+        {
+            "name": "formatcc",
+            "email": "young123tao@163.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Formatcc\\LaravelModule\\": "src"
+        }
+    }
+}
